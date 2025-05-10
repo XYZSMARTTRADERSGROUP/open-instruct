@@ -50,7 +50,7 @@ google-api-core==2.24.0
 google-auth==2.37.0
 googleapis-common-protos==1.66.0
 grpcio==1.69.0
-h11==0.14.0
+h11==0.16.0
 hf-transfer==0.1.9
 hjson==3.1.0
 httpcore==1.0.7
